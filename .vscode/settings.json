@@ -1,0 +1,22 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "connectString": "postgres://hyvvymvr:p4KYLP0tD28i9r0R7IcgCEGVcMwgflH_@jelani.db.elephantsql.com/hyvvymvr",
+            "name": "inclass_join"
+        },
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "connectString": "postgres://reusnmgw:Lw2tXxAPVHKwQ25l_SdrWW99wR28i_mO@peanut.db.elephantsql.com/reusnmgw",
+            "name": "car_dealership_project"
+        }
+    ]
+}
